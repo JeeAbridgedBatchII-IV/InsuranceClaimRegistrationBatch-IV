@@ -1,4 +1,4 @@
-package com.InsuranceClaim.dao;
+package com.insurance.claim.dao;
 
 public class ClaimDAOImpl {
 

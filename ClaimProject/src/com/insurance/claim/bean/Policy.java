@@ -5,6 +5,7 @@ public class Policy {
 	private double PolicyPremium;
 	private long AccountNumber;
 	//private String PolicyType;
+	//private PolicyDetails  details
 
 	public Policy() {
 	// TODO Auto-generated constructor stub

@@ -1,4 +1,4 @@
-package com.InsuranceClaim.utils;
+package com.insurance.claim.utils;
 
 public class ClaimDBQueries {
 

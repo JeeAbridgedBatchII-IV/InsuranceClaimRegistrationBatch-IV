@@ -11,11 +11,10 @@ public class ClaimQuestions {
 	// TODO Auto-generated constructor stub
 	}
 
-	public ClaimQuestions(int QuesId, String PolicyType, String QuesDesc,
-	String QuesAns1, String QuesAns2) {
+	public ClaimQuestions(int QuesId, String QuesDesc,String PolicyType, String QuesAns1, String QuesAns2) {
 	super();
 	this.QuesId = QuesId;
-	this.PolicyType = PolicyType;
+	//this.PolicyType = PolicyType;
 	this.QuesDesc = QuesDesc;
 	this.QuesAns1 = QuesAns1;
 	this.QuesAns2 = QuesAns2;
@@ -32,7 +31,6 @@ public class ClaimQuestions {
 	public String getPolicyType() {
 	return PolicyType;
 	}
-
 	public void setPolicyType(String PolicyType) {
 	this.PolicyType = PolicyType;
 	}

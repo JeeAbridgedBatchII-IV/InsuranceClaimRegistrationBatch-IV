@@ -1,4 +1,4 @@
-package com.InsuranceClaim.service;
+package com.insurance.claim.service;
 
 public interface ClaimService {
 

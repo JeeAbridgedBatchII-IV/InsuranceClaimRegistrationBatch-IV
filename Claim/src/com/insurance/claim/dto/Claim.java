@@ -1,4 +1,4 @@
-package com.InsuranceClaim.dto;
+package com.insurance.claim.dto;
 
 public class Claim {
 	public static void main(String args[]) {
